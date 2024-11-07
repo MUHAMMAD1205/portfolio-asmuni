@@ -1,0 +1,52 @@
+ Teknologi yang Digunakan
+- HTML - Untuk struktur website.
+- CSS - Untuk desain dan tata letak.
+- JavaScript - Untuk interaktivitas.
+- FontAwesome - Untuk ikon sosial media dan kontak.
+
+ Instalasi
+
+1. Clone Repositori  
+   Clone repositori ini ke komputer lokal:
+   ```bash
+   git clone https://github.com/username/portfolio-website.git
+   ```
+
+2. Masuk ke Direktori Proyek  
+   Buka folder proyek:
+   ```bash
+   cd portfolio-website
+   ```
+
+3. Instalasi Dependensi  
+   Jika menggunakan package manager (misalnya, npm untuk pustaka JavaScript), instalasi paket yang dibutuhkan:
+   ```bash
+   npm install
+   ```
+   > _Catatan: Langkah ini opsional dan hanya diperlukan jika proyek menggunakan paket JavaScript eksternal._
+
+
+Untuk menjalankan website secara lokal:
+
+1. Gunakan Server Lokal  
+   - Anda dapat menggunakan perangkat lunak server lokal seperti XAMPP, MAMP, atau WAMP.
+   - Tempatkan file proyek di dalam direktori root server (misalnya, `htdocs` untuk XAMPP).
+
+2. Buka di Browser  
+   Buka browser Anda dan masuk ke:
+   ```plaintext
+   http://localhost/portfolio-website
+   ```
+
+3. Menggunakan VS Code dengan Live Server (Opsional)  
+   Jika menggunakan Visual Studio Code, Anda bisa menginstal ekstensi Live Server untuk melihat perubahan secara real-time.
+   - Buka proyek di Visual Studio Code.
+   - Klik kanan pada `index.html` dan pilih Open with Live Server.
+   - Ini akan membuka website di browser pada alamat server lokal (misalnya, `http://127.0.0.1:5500`).
+
+ Lisensi
+Proyek ini bersifat open-source dan tersedia di bawah [Lisensi MIT](LICENSE).
+
+ Kontak
+Untuk informasi lebih lanjut, kunjungi website atau hubungi Muhammad Asmuni melalui link sosial media yang ada di website.
+
